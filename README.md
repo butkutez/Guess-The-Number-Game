@@ -2,7 +2,7 @@
 [![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Property_Price_Predictor](https://i.pinimg.com/1200x/d0/cb/6a/d0cb6aeabb07ebf5420eb6b45998bc21.jpg)](https://in.pinterest.com/pin/550354016936114257/)  
-*Image source: [Peakpx](https://in.pinterest.com/pin/550354016936114257/)*
+*Image source: [Pinterest](https://in.pinterest.com/pin/550354016936114257/)*
 
 ## Project Description
 
